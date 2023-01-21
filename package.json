@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/AJAYKUMAR-A-S/mern-amazona/issues"
   },
-  "homepage": "https://github.com/AJAYKUMAR-A-S/mern-amazona#readme",
-  "optionalDependencies": {
-    "fsevents": "*"
-  }
+  "homepage": "https://github.com/AJAYKUMAR-A-S/mern-amazona#readme"
 }
